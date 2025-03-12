@@ -1,0 +1,5 @@
+results/*
+features/*
+cache/*
+catboost_info/*
+logs/*
